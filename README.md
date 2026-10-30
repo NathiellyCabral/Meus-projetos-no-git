@@ -1,4 +1,4 @@
-# Meus-projetos-no-git
+# Descobrir-a-media-de-quatro-notas
 
 {
 	funcao inicio()
